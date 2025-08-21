@@ -1,0 +1,11 @@
+# Binários gerados
+/output/
+*.o
+*.out
+*.exe
+*.dSYM/
+*.dot
+*.png
+
+# Arquivos temporários do sistema
+.DS_Store
